@@ -1,5 +1,6 @@
 public class Cliente {
-    public static void main(String[] args) {
         private String tipoConta;
-    }
+        private String nome;
+        private int numero;
+        private double altura;
 }
